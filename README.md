@@ -28,9 +28,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently working as **Software Engineer at Coforge** (Node.js, Express, React, MySQL, Microservices).  
+- 🌱 I am Currently working as **Software Engineer at Coforge** (Node.js, Express, React, MySQL, Microservices).  
 - 🚀 Building projects with **MERN + PostgreSQL + Prisma**.  
-- 🔐 Interested in **system design, performance optimization, and scalable APIs**.  
+- 🔐 Interested in **system design, performance optimization, AI, and scalable APIs**.  
 - 💬 Ask me about **Node.js, React, Databases, or JWT Authentication**.  
 - 📫 Reach me at: **patrahimansuranjan@gmail.com**  
 - ⚡ Fun fact: Solved **400+ DSA problems** on LeetCode & GFG 🚀  
@@ -69,9 +69,12 @@
 ---
 
 ## 📊 GitHub Stats
+
 ![Himansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimansuRanjan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimansuRanjan&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimansuRanjan&theme=radical)  
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimansuRanjan&layout=compact&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimansuRanjan&theme=radical) |
+|---|---|
+
 
 ---
 
