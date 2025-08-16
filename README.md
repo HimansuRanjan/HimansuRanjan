@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Himansu Ranjan Patra  
 
-<!--
-**HimansuRanjan/HimansuRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | 💻 Node.js, React, PostgreSQL | 🔒 Security & Performance Enthusiast  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Backend:** Node.js, Express.js, Prisma, MongoDB, MySQL, PostgreSQL  
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **DevOps & Tools:** Docker, GitHub, Postman, JWT  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Himansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimansuRanjan&show_icons=true&theme=tokyonight)
+
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/himansu-ranjan-patra-6540b8202/)  
+- [Portfolio](https://himansu-ranjan-profile.netlify.app/)  
+- [LeetCode](https://leetcode.com/u/RanjanHimansu/)
+
