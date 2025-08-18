@@ -16,7 +16,7 @@
 </a>&nbsp;
 
 
-<a href="https://himansu-ranjan-profile.netlify.app/">
+<a href="https://himansuportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white">
 </a>&nbsp;
 
